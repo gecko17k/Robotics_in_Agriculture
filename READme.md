@@ -5,3 +5,7 @@ There are numerous farm robotics start-up companies around the world tackling pr
 
 Vince Hall, 
 Build Intellect Ltd. CEO.
+
+Too big to fit on GitHub.
+Get the slides here:
+https://drive.google.com/drive/folders/1NwgDejc1Q2kYAhbPgiMZKQ5Yhs0rtsh3?usp=sharing
